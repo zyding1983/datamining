@@ -1,0 +1,11 @@
+#this is output from the result of java apriori out1.csv 5 70 0
+
+Rule 1:     36   ---> 15    [sup=13.886113   conf=79.88506]
+Rule 2:     15   ---> 36    [sup=13.886113   conf=75.13513]
+Rule 3:     22   ---> 9    [sup=18.081919   conf=84.18605]
+Rule 4:     9   ---> 22    [sup=18.081919   conf=80.44444]
+Rule 5:     49   ---> 1    [sup=12.687312   conf=78.395065]
+Rule 6:     1   ---> 49    [sup=12.687312   conf=81.410255]
+Rule 7:     14, 16   ---> 12    [sup=25.674326   conf=99.612404]
+Rule 8:     12, 16   ---> 14    [sup=25.674326   conf=99.2278]
+Rule 9:     12, 14   ---> 16    [sup=25.674326   conf=95.89552]

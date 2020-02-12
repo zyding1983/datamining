@@ -1,0 +1,15 @@
+﻿# 有一分数序列：2/1，3/2，5/3，8/5，13/8，21/13...求出这个数列的前n项之和(其中n由用户通过输入方式指定)。
+
+
+num = input('Please enter the number of the items in the sequence : ')
+sum = 0.0
+
+bottom = 1.0
+top = 2.0
+for i in range(1, int(num) + 1):
+    a = top / bottom
+  #  print('%d  /  %d' % (top, bottom))
+    sum += a
+    top, bottom = top + bottom, top
+
+print(sum)

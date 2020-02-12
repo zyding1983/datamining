@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rules>
+  <rule>
+    <sup>15</sup>
+    <conf>95</conf>
+    <left>
+      <item>1</item>
+    </left>
+    <right>
+      <item>49</item>
+    </right>
+  </rule>
+  <rule>
+    <sup>20</sup>
+    <conf>95</conf>
+    <left>
+      <item>15</item>
+    </left>
+    <right>
+      <item>36</item>
+    </right>
+  </rule>
+  <rule>
+    <sup>25</sup>
+    <conf>95</conf>
+    <left>
+      <item>9</item>
+    </left>
+    <right>
+      <item>22</item>
+    </right>
+  </rule>
+  <rule>
+    <sup>30</sup>
+    <conf>95</conf>
+    <left>
+      <item>12</item>
+	  <item>14</item>
+    </left>
+    <right>
+      <item>16</item>
+    </right>
+  </rule>
+</rules>

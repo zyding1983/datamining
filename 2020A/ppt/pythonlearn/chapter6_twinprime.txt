@@ -1,0 +1,35 @@
+﻿# 孪生素数（素数也叫质数）是一对相差2的素数，例如3和5，5和7，11和13都是孪生素数。请写一段代码找到所有1000以内的孪生素数，结果显示如下：
+#（3，5）
+#（5，7）
+# ……
+# 要求：定义一个函数isPrime(num)，该函数判断给定数num是否是素数（或质数）
+
+
+def isPrime(number):
+    'Identifies whether number is a prime.'
+    result = True
+    for i in range(2, number // 2 + 1):
+        if number % i == 0:  # 当number能够被从2到number//2的任意一个数整除时，则说明该数不是质数
+            result = False
+            break      # 当发现当前的number已经能够被某个i整除，则无需再次进入for循环
+    return result
+       
+
+def twinPrime(n):
+    'Finds all the pairs of twin primes with each prime less than n.'
+    result = []
+    i = 3
+    pair = 1
+    while True:
+        if isPrime(i):
+            if isPrime(i+2):
+                t = (i, i + 2)
+                result.append(t)
+        i += 1
+        if i + 2>=n:
+            break;
+
+    print(result)
+    return    
+                
+            
