@@ -19,5 +19,8 @@ data mining class
   （2）https://v.youku.com/v_show/id_XNDU1NTMzMjEzNg==.html
   （3）https://v.youku.com/v_show/id_XNDU1OTQ4MDU5Ng==.html 
   （4）https://v.youku.com/v_show/id_XNDU1OTQ4MjA4OA==.html
+  （5）https://v.youku.com/v_show/id_XNDU2MjQ0MTM5Mg==.html
+  （6）https://v.youku.com/v_show/id_XNDU2MjQ0MjgyNA==.html 
+  （7）https://v.youku.com/v_show/id_XNDU2MjQ0Mzk2MA==.html
   
   
