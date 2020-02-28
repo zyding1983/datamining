@@ -22,5 +22,11 @@ data mining class
   （5）https://v.youku.com/v_show/id_XNDU2MjQ0MTM5Mg==.html
   （6）https://v.youku.com/v_show/id_XNDU2MjQ0MjgyNA==.html 
   （7）https://v.youku.com/v_show/id_XNDU2MjQ0Mzk2MA==.html
+
+04 关联规则挖掘网课链接：
+  
+  （1）https://v.youku.com/v_show/id_XNDU2NTY3MTAwOA==.html 
+  （2）https://v.youku.com/v_show/id_XNDU2NTY3MjE3Mg==.html
+  （3）https://v.youku.com/v_show/id_XNDU2NTY3MzM0NA==.html 
   
   
