@@ -28,5 +28,11 @@ data mining class
   （1）https://v.youku.com/v_show/id_XNDU2NTY3MTAwOA==.html 
   （2）https://v.youku.com/v_show/id_XNDU2NTY3MjE3Mg==.html
   （3）https://v.youku.com/v_show/id_XNDU2NTY3MzM0NA==.html 
+  （4）https://v.youku.com/v_show/id_XNDU2OTgyMTkwOA==.html
+  （5）https://v.youku.com/v_show/id_XNDU2OTgyMjk4MA==.html
+  
+ 05 数据聚类网课链接：
+  
+  （1）https://v.youku.com/v_show/id_XNDU2OTgyMzk4MA==.html 
   
   
