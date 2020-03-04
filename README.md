@@ -34,5 +34,8 @@ data mining class
  05 数据聚类网课链接：
   
   （1）https://v.youku.com/v_show/id_XNDU2OTgyMzk4MA==.html 
+  （2）https://v.youku.com/v_show/id_XNDU3MjY3NTM0OA==.html
+  （3）https://v.youku.com/v_show/id_XNDU3MjY3Njg1Mg==.html 
+  （4）https://v.youku.com/v_show/id_XNDU3MjY3ODQyNA==.html
   
   
