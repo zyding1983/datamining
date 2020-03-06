@@ -37,5 +37,7 @@ data mining class
   （2）https://v.youku.com/v_show/id_XNDU3MjY3NTM0OA==.html
   （3）https://v.youku.com/v_show/id_XNDU3MjY3Njg1Mg==.html 
   （4）https://v.youku.com/v_show/id_XNDU3MjY3ODQyNA==.html
+  （5）https://v.youku.com/v_show/id_XNDU3NTYzMjQwNA==.html
+  （6）https://v.youku.com/v_show/id_XNDU3NTYzNDg2OA==.html 
   
   
