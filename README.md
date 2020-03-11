@@ -42,5 +42,10 @@ data mining class
   （7）https://v.youku.com/v_show/id_XNDU3OTc5MjExMg==.html 
   （8）https://v.youku.com/v_show/id_XNDU3OTc5MzUwMA==.html
   （9）https://v.youku.com/v_show/id_XNDU3OTgxOTU0NA==.html
+
+ 06 贝叶斯分类网课链接：
   
+  （1）https://v.youku.com/v_show/id_XNDU4Mjc1MjM0NA==.html 
+  （2）https://v.youku.com/v_show/id_XNDU4Mjc1NDMxNg==.html
+  （3）https://v.youku.com/v_show/id_XNDU4Mjc1NjE3Mg==.html
   
