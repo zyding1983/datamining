@@ -49,3 +49,9 @@ data mining class
   （2）https://v.youku.com/v_show/id_XNDU4Mjc1NDMxNg==.html
   （3）https://v.youku.com/v_show/id_XNDU4Mjc1NjE3Mg==.html
   
+07 信息推荐算法网课链接：
+  
+  （1）https://v.youku.com/v_show/id_XNDU4NTgwNDU1Mg==.html 
+  （2）https://v.youku.com/v_show/id_XNDU4NTgwNjE1Ng==.html
+  （3）https://v.youku.com/v_show/id_XNDU4NTgwNzU5Ng==.html
+  
