@@ -55,3 +55,8 @@ data mining class
   （2）https://v.youku.com/v_show/id_XNDU4NTgwNjE1Ng==.html
   （3）https://v.youku.com/v_show/id_XNDU4NTgwNzU5Ng==.html
   
+08 决策树分类网课链接：
+  
+  （1）https://v.youku.com/v_show/id_XNDU5MDM1MzIzMg==.html 
+  （2）https://v.youku.com/v_show/id_XNDU5MDM1NTA2OA==.html
+  （3）https://v.youku.com/v_show/id_XNDU5MDM1NjQ2MA==.html
