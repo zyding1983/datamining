@@ -62,3 +62,10 @@ data mining class
   （3）https://v.youku.com/v_show/id_XNDU5MDM1NjQ2MA==.html
   （4）https://v.youku.com/v_show/id_XNDU5NTgyNzE1Ng==.html
   （5）https://v.youku.com/v_show/id_XNDU5NTgyODM0MA==.html
+  
+  
+ 09 分类器评价网课链接：
+  
+  （1）https://v.youku.com/v_show/id_XNDYwMDc4ODg5Ng==.html 
+  （2）https://v.youku.com/v_show/id_XNDYwMDc5MDQzMg==.html
+  （3）https://v.youku.com/v_show/id_XNDYwMDc5MjAyOA==.html
