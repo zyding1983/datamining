@@ -69,3 +69,9 @@ data mining class
   （1）https://v.youku.com/v_show/id_XNDYwMDc4ODg5Ng==.html 
   （2）https://v.youku.com/v_show/id_XNDYwMDc5MDQzMg==.html
   （3）https://v.youku.com/v_show/id_XNDYwMDc5MjAyOA==.html
+
+ 10 回归分析网课链接：
+  
+  （1）https://v.youku.com/v_show/id_XNDYwNzMyNTAyNA==.html 
+  （2）https://v.youku.com/v_show/id_XNDYwNzMyNzYyNA==.html
+  （3）https://v.youku.com/v_show/id_XNDYwNzMzMDc2NA==.html
